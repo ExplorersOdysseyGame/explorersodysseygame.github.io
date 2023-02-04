@@ -1,0 +1,22 @@
+/* General Colours */
+:root {
+	background-color: #121212;
+	color: #ffffff;
+	font-family: sans-serif;
+	font-size: 1em;
+}
+
+/* Headers */
+h1,h2,h3,h4,h5 {margin:5px; background-color:#242424; padding-left:1em;}
+h1 {font-size: 2.6em; border-radius: 0.2em; text-align: center; margin-bottom: 10px;}
+h2 {font-size: 2.4em; border-radius: 0.4em; padding-left:1.1em}
+h3 {font-size: 2.2em; border-radius: 0.6em; padding-left:1.2em}
+h4 {font-size: 2.0em; border-radius: 0.8em; padding-left:1.3em}
+h5 {font-size: 1.8em; border-radius: 1em; padding-left:1.45em}
+
+/* Content */
+p,span,a {font-size: 1.2em; padding-left:25px;}
+a {padding-left:0px;color: #bbbbff} a:hover {color: #6666ff} a:visited {color: #333333}
+
+/* Classes */
+.pagetitle_image {width:0.75em; height:0.75em; image-rendering: pixelated; opacity:0.25; }
